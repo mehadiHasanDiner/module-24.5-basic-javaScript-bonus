@@ -20,4 +20,4 @@ function matchedProducts(name, search) {
   console.log(searchedMovie);
 }
 
-const movies = matchedProducts(moviesArray, "may");
+const movies = matchedProducts(moviesArray, "Abdullah");
